@@ -1,0 +1,301 @@
+Student_ID,Student_Name,Age,Gender,City,Province,University_Name,Field,Degree_Level,Semester,CGPA,Skills_List,Skill_Count,Top_Skill,Recommended_Learning_Mode
+1,Richard Garcia,21,Male,Lahore,Punjab,LUMS,Data Science,BS,2,3.12,"Pandas, Machine Learning, Statistics",3,Pandas,Practical
+2,Miss Brooke Webb,26,Male,Lahore,Punjab,LUMS,CS,MBBS,7,2.42,"Java, Git, Python",3,Python,Practical
+3,Susan Woods,22,Male,Lahore,Punjab,UET Lahore,MBBS,MS,2,2.18,"Physiology, Pathology, Pharmacology",3,Physiology,Theoretical
+4,Samantha Hernandez,25,Male,Lahore,Punjab,University of the Punjab,BBA,BS,5,3.58,"Management, Marketing, Accounting, Economics",4,Accounting,Theoretical
+5,Amy Harmon,21,Male,Lahore,Punjab,University of the Punjab,Cyber Security,MS,8,3.21,"Cyber Security, Firewall, Networking, Linux, Cryptography",5,Networking,Practical
+6,Patricia Medina,19,Male,Lahore,Punjab,LUMS,IT,MBBS,4,2.31,"Troubleshooting, Linux, Cloud Basics, System Administration",4,System Administration,Practical
+7,Kelly Trevino,18,Male,Lahore,Punjab,UET Lahore,MBBS,MS,7,2.51,"Patient Care, Clinical Diagnosis, Physiology, Pharmacology, Pathology",5,Clinical Diagnosis,Theoretical
+8,Scott Malone,25,Male,Lahore,Punjab,University of the Punjab,BBA,BS,4,3.42,"Economics, Business Communication, Management",3,Management,Theoretical
+9,Bradley Silva,20,Female,Lahore,Punjab,UET Lahore,MBBS,BS,2,2.29,"Clinical Diagnosis, Pathology, Patient Care, Physiology, Anatomy",5,Pathology,Theoretical
+10,Brent Hernandez,26,Female,Lahore,Punjab,LUMS,Business Analyst,BS,2,3.3,"Excel, Reporting, Business Communication, Data Analysis, Power BI",5,Power BI,Visual
+11,Vanessa Strong,25,Male,Lahore,Punjab,LUMS,MBBS,MBBS,5,3.85,"Pharmacology, Anatomy, Patient Care, Physiology, Clinical Diagnosis",5,Anatomy,Theoretical
+12,Kyle Jimenez,20,Male,Lahore,Punjab,LUMS,Data Science,MS,8,2.04,"Machine Learning, SQL, Statistics, Python, Data Analysis",5,Statistics,Practical
+13,Dawn Farley,19,Female,Lahore,Punjab,UET Lahore,MBBS,MBBS,3,2.24,"Anatomy, Physiology, Patient Care",3,Physiology,Theoretical
+14,Kimberly Woods,26,Male,Lahore,Punjab,LUMS,IT,MS,7,3.89,"Security Basics, Cloud Basics, System Administration, Networking",4,System Administration,Practical
+15,Juan Andrews,23,Male,Lahore,Punjab,LUMS,AI,MBBS,4,3.12,"Neural Networks, Python, Machine Learning, Data Analysis, Deep Learning",5,Neural Networks,Practical
+16,Katherine Gomez,23,Male,Lahore,Punjab,LUMS,Data Science,BS,5,3.27,"Pandas, Python, Statistics, SQL, Machine Learning",5,Python,Practical
+17,Krystal Guzman,24,Male,Lahore,Punjab,UET Lahore,IT,BS,7,2.67,"Security Basics, Cloud Basics, System Administration, Networking, Linux",5,Networking,Practical
+18,Emma Decker,19,Male,Lahore,Punjab,UET Lahore,AI,BS,8,2.27,"Python, TensorFlow, Data Analysis, Machine Learning, Deep Learning",5,TensorFlow,Practical
+19,Kayla Cole,19,Male,Lahore,Punjab,LUMS,MBBS,MBBS,1,3.84,"Physiology, Anatomy, Pathology, Pharmacology",4,Anatomy,Theoretical
+20,Andrew Soto,18,Male,Lahore,Punjab,University of the Punjab,IT,BS,7,2.5,"System Administration, Cloud Basics, Linux, Security Basics",4,Security Basics,Practical
+21,Leslie Howard,21,Female,Lahore,Punjab,UET Lahore,MBBS,BS,1,3.42,"Patient Care, Clinical Diagnosis, Pathology, Anatomy",4,Patient Care,Theoretical
+22,Makayla Ali,20,Male,Lahore,Punjab,LUMS,CS,BS,4,2.77,"Data Structures, OOP, Java, Python, C++",5,C++,Practical
+23,Christopher Jefferson,22,Male,Lahore,Punjab,LUMS,Cyber Security,MBBS,6,2.45,"Cryptography, Cyber Security, Firewall, Networking, Ethical Hacking",5,Networking,Practical
+24,Karen Roberson,18,Female,Lahore,Punjab,LUMS,IT,MBBS,2,2.14,"Cloud Basics, Troubleshooting, System Administration, Linux, Networking",5,Troubleshooting,Practical
+25,Richard Pearson,23,Female,Lahore,Punjab,UET Lahore,MBBS,MS,5,3.16,"Pharmacology, Anatomy, Physiology",3,Physiology,Theoretical
+26,James Gonzalez,19,Male,Lahore,Punjab,LUMS,CS,MBBS,3,2.52,"OOP, C++, Python, Data Structures, Java",5,Java,Practical
+27,Christine Boyd,22,Male,Lahore,Punjab,UET Lahore,Cyber Security,MBBS,7,3.58,"Ethical Hacking, Networking, Firewall, Linux, Cryptography",5,Ethical Hacking,Practical
+28,Danielle Palmer,25,Female,Lahore,Punjab,LUMS,CS,BS,2,2.14,"Java, C++, Git, OOP",4,C++,Practical
+29,Christopher Wright,20,Male,Lahore,Punjab,University of the Punjab,CS,MS,1,3.71,"OOP, Git, Java, Data Structures",4,Git,Practical
+30,Elizabeth James,21,Male,Lahore,Punjab,UET Lahore,Cyber Security,MS,1,2.34,"Cyber Security, Ethical Hacking, Linux, Cryptography, Firewall",5,Linux,Practical
+31,Aaron Gomez,24,Male,Lahore,Punjab,University of the Punjab,Business Analyst,BS,4,3.55,"SQL, Power BI, Data Analysis, Excel, Reporting",5,Excel,Visual
+32,Dr. Frank Macias,21,Female,Lahore,Punjab,University of the Punjab,BBA,MS,2,3.84,"Finance, Economics, Accounting, Marketing",4,Accounting,Theoretical
+33,Anthony Jimenez,22,Male,Lahore,Punjab,LUMS,BBA,MS,1,2.21,"Management, Business Communication, Marketing, Accounting, Economics",5,Accounting,Theoretical
+34,James Smith,22,Male,Lahore,Punjab,LUMS,BBA,MS,1,2.99,"Marketing, Business Communication, Accounting, Finance, Management",5,Management,Theoretical
+35,Christian Lozano,23,Male,Lahore,Punjab,LUMS,Cyber Security,MS,5,3.27,"Linux, Cyber Security, Ethical Hacking, Firewall",4,Ethical Hacking,Practical
+36,Brittany Smith,24,Male,Lahore,Punjab,LUMS,Business Analyst,MBBS,5,2.77,"Data Analysis, Business Communication, Power BI, Excel, Reporting",5,Data Analysis,Visual
+37,Haley Solomon,25,Female,Lahore,Punjab,LUMS,MBBS,BS,8,3.51,"Physiology, Pathology, Pharmacology, Patient Care",4,Pathology,Theoretical
+38,Tom Cruz,21,Female,Lahore,Punjab,UET Lahore,Data Science,BS,3,2.05,"SQL, Pandas, Machine Learning, Python",4,Pandas,Practical
+39,Samantha Hughes,24,Female,Lahore,Punjab,University of the Punjab,AI,BS,3,3.25,"Python, Neural Networks, Data Analysis, Deep Learning, TensorFlow",5,Python,Practical
+40,Rick Freeman,26,Male,Lahore,Punjab,UET Lahore,Data Science,MS,3,3.52,"Statistics, Pandas, Data Analysis, Python",4,Data Analysis,Practical
+41,Angela Moore,20,Female,Lahore,Punjab,University of the Punjab,AI,MS,4,3.6,"TensorFlow, Data Analysis, Neural Networks, Deep Learning, Machine Learning",5,Neural Networks,Practical
+42,Ronald Ortega,21,Female,Lahore,Punjab,University of the Punjab,AI,MS,2,2.26,"Machine Learning, Deep Learning, Neural Networks, Python, TensorFlow",5,Deep Learning,Practical
+43,Nicholas Davenport,23,Female,Lahore,Punjab,University of the Punjab,Business Analyst,BS,4,3.58,"Power BI, SQL, Excel, Business Communication, Data Analysis",5,Business Communication,Visual
+44,Brittney Phillips,24,Female,Lahore,Punjab,LUMS,CS,MBBS,4,2.93,"Data Structures, Git, Python, Java, C++",5,Python,Practical
+45,Tyrone Dudley,24,Male,Lahore,Punjab,University of the Punjab,Business Analyst,BS,1,3.72,"Excel, Reporting, Data Analysis, Business Communication",4,Excel,Visual
+46,Elizabeth Nelson,22,Female,Lahore,Punjab,University of the Punjab,Data Science,BS,8,2.62,"Data Analysis, Statistics, Pandas, Python, Machine Learning",5,Python,Practical
+47,Lucas Miller,26,Male,Lahore,Punjab,University of the Punjab,MBBS,BS,2,3.48,"Pharmacology, Anatomy, Pathology, Clinical Diagnosis",4,Pharmacology,Theoretical
+48,Christine Greer,21,Male,Lahore,Punjab,University of the Punjab,CS,MBBS,2,3.07,"Java, Python, Git",3,Java,Practical
+49,Jaime Reid,20,Female,Lahore,Punjab,UET Lahore,AI,MBBS,1,3.76,"Deep Learning, TensorFlow, Machine Learning, Data Analysis, Python",5,Python,Practical
+50,Heather Ward,21,Male,Lahore,Punjab,LUMS,Business Analyst,MS,2,3.51,"SQL, Power BI, Excel, Data Analysis",4,SQL,Visual
+51,George Miller,18,Female,Lahore,Punjab,University of the Punjab,BBA,BS,7,3.83,"Business Communication, Marketing, Accounting, Management, Finance",5,Management,Theoretical
+52,Gloria Martin,26,Female,Lahore,Punjab,University of the Punjab,IT,MS,5,2.61,"Linux, Security Basics, Troubleshooting, System Administration",4,Security Basics,Practical
+53,Warren Vazquez,24,Female,Lahore,Punjab,UET Lahore,Data Science,MS,6,2.35,"Data Analysis, Statistics, Pandas, Machine Learning",4,Statistics,Practical
+54,Dylan Anderson,18,Male,Lahore,Punjab,UET Lahore,BBA,BS,7,2.93,"Marketing, Economics, Management, Business Communication",4,Economics,Theoretical
+55,Jeffery Young,22,Male,Lahore,Punjab,University of the Punjab,AI,MBBS,4,2.58,"TensorFlow, Neural Networks, Data Analysis, Python, Deep Learning",5,Deep Learning,Practical
+56,Tracy Mcdonald,26,Female,Lahore,Punjab,University of the Punjab,BBA,MBBS,8,2.51,"Management, Economics, Marketing, Finance",4,Marketing,Theoretical
+57,Shawn Ellis,19,Male,Lahore,Punjab,UET Lahore,Cyber Security,BS,8,2.53,"Firewall, Networking, Ethical Hacking",3,Ethical Hacking,Practical
+58,Emily Golden,23,Male,Lahore,Punjab,University of the Punjab,MBBS,BS,3,2.52,"Physiology, Pharmacology, Patient Care",3,Physiology,Theoretical
+59,Daniel Allen,25,Female,Lahore,Punjab,University of the Punjab,MBBS,MS,3,3.83,"Physiology, Pathology, Anatomy, Clinical Diagnosis, Patient Care",5,Anatomy,Theoretical
+60,Tamara Johnson,19,Male,Lahore,Punjab,UET Lahore,AI,BS,5,2.16,"Python, Neural Networks, Data Analysis",3,Python,Practical
+61,Benjamin Hudson,25,Female,Lahore,Punjab,University of the Punjab,Data Science,MBBS,7,2.58,"Data Analysis, SQL, Statistics, Machine Learning, Pandas",5,Pandas,Practical
+62,Molly Mcmillan,22,Male,Lahore,Punjab,UET Lahore,CS,BS,3,3.05,"Git, Python, Java, C++, OOP",5,Python,Practical
+63,Cheryl Walker,18,Male,Lahore,Punjab,University of the Punjab,CS,MBBS,5,3.34,"Data Structures, OOP, Git, Java",4,Java,Practical
+64,Blake Brewer,26,Male,Lahore,Punjab,LUMS,Data Science,BS,5,3.57,"Statistics, Machine Learning, Pandas, Data Analysis, Python",5,Statistics,Practical
+65,Karen Wallace,25,Male,Lahore,Punjab,University of the Punjab,CS,MBBS,5,3.33,"C++, OOP, Git",3,OOP,Practical
+66,Allen Phillips,23,Female,Lahore,Punjab,UET Lahore,AI,BS,4,3.83,"Python, Data Analysis, TensorFlow, Machine Learning",4,Python,Practical
+67,Gina Curtis,22,Male,Lahore,Punjab,LUMS,MBBS,MS,8,3.84,"Anatomy, Physiology, Pathology, Pharmacology, Clinical Diagnosis",5,Pharmacology,Theoretical
+68,Kelly Hamilton,23,Female,Lahore,Punjab,LUMS,BBA,MS,5,3.26,"Marketing, Economics, Accounting, Business Communication",4,Business Communication,Theoretical
+69,Jamie Ray,19,Female,Lahore,Punjab,LUMS,CS,BS,8,2.79,"Python, C++, OOP, Java",4,C++,Practical
+70,April Jenkins,26,Male,Lahore,Punjab,University of the Punjab,BBA,MS,8,2.23,"Business Communication, Economics, Accounting, Management, Finance",5,Finance,Theoretical
+71,Melissa Horton,19,Male,Lahore,Punjab,UET Lahore,Cyber Security,MS,2,3.23,"Networking, Ethical Hacking, Cyber Security, Cryptography, Firewall",5,Ethical Hacking,Practical
+72,Suzanne Brown,25,Male,Lahore,Punjab,University of the Punjab,AI,MBBS,3,2.73,"Deep Learning, Data Analysis, TensorFlow, Machine Learning, Neural Networks",5,Neural Networks,Practical
+73,Kara Byrd,26,Female,Lahore,Punjab,UET Lahore,IT,MS,5,3.59,"Troubleshooting, System Administration, Cloud Basics",3,Cloud Basics,Practical
+74,Diane Peterson,23,Female,Lahore,Punjab,LUMS,AI,MBBS,7,2.87,"Neural Networks, Data Analysis, TensorFlow",3,Data Analysis,Practical
+75,Jimmy Fox,18,Female,Lahore,Punjab,LUMS,Cyber Security,MS,7,2.73,"Networking, Cryptography, Linux, Cyber Security, Firewall",5,Cryptography,Practical
+76,Jeanette Alvarado,19,Female,Lahore,Punjab,UET Lahore,AI,MBBS,8,2.03,"Machine Learning, Data Analysis, Deep Learning",3,Machine Learning,Practical
+77,Darius Espinoza,24,Male,Lahore,Punjab,University of the Punjab,Business Analyst,MBBS,7,3.81,"Power BI, Excel, Reporting, SQL, Data Analysis",5,SQL,Visual
+78,Michael Sanders,24,Male,Lahore,Punjab,LUMS,CS,MBBS,2,2.84,"Python, Java, C++, Git, Data Structures",5,C++,Practical
+79,Ryan Schroeder,23,Female,Lahore,Punjab,University of the Punjab,CS,BS,4,3.01,"C++, Python, Git",3,Git,Practical
+80,Julie Hull,21,Female,Lahore,Punjab,LUMS,IT,BS,4,2.88,"Linux, Networking, System Administration",3,Networking,Practical
+81,Tanya Snyder,26,Male,Lahore,Punjab,UET Lahore,AI,MS,6,3.88,"TensorFlow, Python, Neural Networks, Machine Learning",4,Neural Networks,Practical
+82,Jonathan Flynn,25,Male,Lahore,Punjab,UET Lahore,Business Analyst,MS,6,3.09,"Data Analysis, Reporting, SQL, Excel, Power BI",5,SQL,Visual
+83,Mrs. Melissa Long MD,25,Female,Lahore,Punjab,UET Lahore,CS,MBBS,6,2.42,"Data Structures, C++, Python, OOP, Git",5,C++,Practical
+84,Kristen Rodriguez,22,Female,Lahore,Punjab,UET Lahore,MBBS,MBBS,6,3.39,"Patient Care, Physiology, Anatomy, Pharmacology, Pathology",5,Patient Care,Theoretical
+85,Nicholas Richard,20,Female,Lahore,Punjab,LUMS,MBBS,MBBS,5,3.58,"Patient Care, Pathology, Physiology, Anatomy",4,Physiology,Theoretical
+86,Jamie Schwartz,19,Male,Lahore,Punjab,UET Lahore,AI,MBBS,7,3.84,"TensorFlow, Deep Learning, Python, Machine Learning",4,Python,Practical
+87,Derrick Hamilton,23,Female,Lahore,Punjab,LUMS,Data Science,MS,6,2.21,"Python, Machine Learning, Pandas, Statistics",4,Machine Learning,Practical
+88,Anna James,21,Male,Lahore,Punjab,LUMS,AI,MS,5,3.23,"Data Analysis, TensorFlow, Deep Learning",3,Data Analysis,Practical
+89,Melissa Thomas,19,Male,Lahore,Punjab,UET Lahore,IT,MBBS,3,2.74,"Networking, Troubleshooting, System Administration",3,Troubleshooting,Practical
+90,Christopher Martinez,25,Female,Lahore,Punjab,University of the Punjab,Business Analyst,BS,6,2.41,"SQL, Power BI, Reporting, Data Analysis, Excel",5,Data Analysis,Visual
+91,Victoria Holmes,24,Female,Lahore,Punjab,UET Lahore,Cyber Security,BS,8,2.17,"Cyber Security, Ethical Hacking, Cryptography, Firewall",4,Ethical Hacking,Practical
+92,Matthew Watkins,21,Male,Lahore,Punjab,LUMS,CS,BS,4,3.54,"C++, Java, OOP",3,C++,Practical
+93,Francisco Riggs,20,Male,Lahore,Punjab,LUMS,BBA,MS,3,2.21,"Management, Accounting, Marketing",3,Management,Theoretical
+94,Janet Alexander,18,Male,Lahore,Punjab,University of the Punjab,IT,BS,3,3.41,"Troubleshooting, Linux, Cloud Basics",3,Cloud Basics,Practical
+95,Jonathan Reed,25,Male,Lahore,Punjab,LUMS,Data Science,BS,5,2.87,"Python, Data Analysis, SQL, Statistics, Pandas",5,Python,Practical
+96,Geoffrey White,25,Male,Lahore,Punjab,UET Lahore,CS,MS,3,2.12,"Data Structures, Git, Python, Java",4,Python,Practical
+97,John Lawson,26,Female,Lahore,Punjab,UET Lahore,BBA,MBBS,2,3.62,"Management, Economics, Marketing, Finance",4,Economics,Theoretical
+98,Jeremy Bates MD,24,Female,Lahore,Punjab,LUMS,Business Analyst,BS,6,2.81,"Power BI, Reporting, Data Analysis, SQL",4,Data Analysis,Visual
+99,Christopher Johnson,19,Male,Lahore,Punjab,UET Lahore,BBA,MS,2,3.41,"Economics, Business Communication, Accounting",3,Business Communication,Theoretical
+100,Vincent Young,24,Female,Lahore,Punjab,LUMS,IT,MS,1,3.84,"Networking, Security Basics, Troubleshooting, System Administration, Cloud Basics",5,Cloud Basics,Practical
+101,Samantha Hoover,25,Male,Lahore,Punjab,UET Lahore,MBBS,MS,6,2.22,"Anatomy, Clinical Diagnosis, Physiology, Patient Care",4,Physiology,Theoretical
+102,Robert Kelly,22,Male,Lahore,Punjab,UET Lahore,Cyber Security,MS,5,3.75,"Cryptography, Firewall, Cyber Security, Ethical Hacking",4,Cyber Security,Practical
+103,Manuel Hansen,19,Male,Lahore,Punjab,LUMS,CS,MBBS,1,2.17,"Java, OOP, Data Structures",3,Data Structures,Practical
+104,Michael Strickland,23,Female,Lahore,Punjab,LUMS,Cyber Security,MS,2,3.68,"Linux, Firewall, Ethical Hacking, Cyber Security",4,Firewall,Practical
+105,Kimberly Horton,25,Female,Lahore,Punjab,University of the Punjab,IT,MS,4,3.43,"Networking, Cloud Basics, Troubleshooting, Linux, System Administration",5,Networking,Practical
+106,William Mason,22,Male,Karachi,Sindh,University of Karachi,BBA,MS,1,2.01,"Accounting, Marketing, Business Communication, Management",4,Business Communication,Theoretical
+107,Autumn Chase,19,Male,Karachi,Sindh,NED University,Cyber Security,MBBS,7,2.33,"Ethical Hacking, Firewall, Cryptography",3,Firewall,Practical
+108,Andrew Strong,24,Male,Karachi,Sindh,NED University,Cyber Security,BS,6,3.09,"Cryptography, Ethical Hacking, Cyber Security, Networking, Linux",5,Linux,Practical
+109,James Jefferson,18,Female,Karachi,Sindh,University of Karachi,Business Analyst,MBBS,8,3.58,"SQL, Reporting, Data Analysis, Excel, Power BI",5,Data Analysis,Visual
+110,Joshua Morgan,24,Male,Karachi,Sindh,NED University,Data Science,MS,6,2.42,"Python, Statistics, Data Analysis, Machine Learning",4,Statistics,Practical
+111,Jeffrey Miles,20,Male,Karachi,Sindh,University of Karachi,Data Science,BS,5,2.37,"Pandas, Python, Statistics, Data Analysis, Machine Learning",5,Machine Learning,Practical
+112,Katherine Hopkins,23,Female,Karachi,Sindh,University of Karachi,IT,MS,2,2.89,"Networking, Linux, System Administration, Security Basics, Troubleshooting",5,System Administration,Practical
+113,Virginia Newton,25,Male,Karachi,Sindh,University of Karachi,MBBS,MS,5,2.15,"Anatomy, Pharmacology, Patient Care, Physiology, Clinical Diagnosis",5,Anatomy,Theoretical
+114,Christopher Davenport,21,Female,Karachi,Sindh,IBA Karachi,Business Analyst,MS,3,3.82,"Business Communication, SQL, Excel, Power BI",4,Power BI,Visual
+115,Jesse Baird,21,Female,Karachi,Sindh,NED University,Data Science,MBBS,3,2.69,"Pandas, Python, Statistics, SQL",4,Statistics,Practical
+116,Christina Clayton,23,Male,Karachi,Sindh,NED University,Business Analyst,BS,7,2.54,"Data Analysis, Business Communication, Excel, SQL",4,Business Communication,Visual
+117,Michael Cowan,22,Female,Karachi,Sindh,University of Karachi,BBA,MBBS,2,2.59,"Management, Finance, Marketing",3,Finance,Theoretical
+118,Benjamin Banks,24,Female,Karachi,Sindh,University of Karachi,BBA,MS,5,2.34,"Economics, Management, Accounting",3,Economics,Theoretical
+119,Mrs. Dana Collins,19,Female,Karachi,Sindh,University of Karachi,BBA,MBBS,1,3.26,"Finance, Economics, Management, Accounting",4,Economics,Theoretical
+120,Lori Foster,25,Male,Karachi,Sindh,NED University,Business Analyst,MS,4,3.84,"Power BI, SQL, Business Communication",3,Business Communication,Visual
+121,Amanda Todd,21,Female,Karachi,Sindh,IBA Karachi,MBBS,MBBS,8,2.88,"Pathology, Physiology, Clinical Diagnosis, Patient Care, Pharmacology",5,Clinical Diagnosis,Theoretical
+122,James Torres,22,Male,Karachi,Sindh,IBA Karachi,Business Analyst,MS,6,3.05,"Business Communication, Reporting, Power BI, Excel, Data Analysis",5,Business Communication,Visual
+123,Robert Ritter,26,Male,Karachi,Sindh,NED University,Data Science,BS,4,3.55,"Python, Statistics, Machine Learning, SQL",4,Machine Learning,Practical
+124,Robert Harris,24,Male,Karachi,Sindh,NED University,CS,BS,1,2.61,"Python, Data Structures, C++, Git",4,Python,Practical
+125,Jacqueline Jones,25,Male,Karachi,Sindh,IBA Karachi,BBA,MS,8,3.17,"Finance, Accounting, Marketing",3,Finance,Theoretical
+126,Andrew Bailey,22,Male,Karachi,Sindh,NED University,CS,BS,1,2.45,"Java, Git, Data Structures, Python",4,Python,Practical
+127,Jared Lutz,26,Male,Karachi,Sindh,IBA Karachi,Data Science,BS,5,2.82,"Data Analysis, SQL, Python",3,Python,Practical
+128,James Harvey,19,Female,Karachi,Sindh,University of Karachi,BBA,MBBS,1,2.74,"Management, Business Communication, Finance",3,Business Communication,Theoretical
+129,Jeffrey Price PhD,23,Male,Karachi,Sindh,NED University,CS,BS,2,3.47,"Data Structures, C++, OOP, Git, Python",5,OOP,Practical
+130,Kimberly Robles,20,Female,Karachi,Sindh,IBA Karachi,IT,MS,3,3.54,"Troubleshooting, Security Basics, Cloud Basics",3,Troubleshooting,Practical
+131,Christina Johnson,21,Male,Karachi,Sindh,NED University,AI,MS,7,3.88,"Deep Learning, Machine Learning, Python",3,Python,Practical
+132,Mark Davis,18,Female,Karachi,Sindh,NED University,AI,BS,6,2.83,"Python, Machine Learning, Deep Learning, Data Analysis",4,Data Analysis,Practical
+133,Reginald West,25,Female,Karachi,Sindh,IBA Karachi,AI,MS,2,3.38,"Deep Learning, Machine Learning, Neural Networks, TensorFlow",4,Deep Learning,Practical
+134,Rebecca Freeman,19,Female,Karachi,Sindh,IBA Karachi,Business Analyst,MS,5,2.85,"Power BI, Business Communication, Data Analysis, SQL, Excel",5,SQL,Visual
+135,Leonard Evans,24,Female,Karachi,Sindh,IBA Karachi,IT,BS,2,3.28,"System Administration, Troubleshooting, Cloud Basics, Networking, Linux",5,Networking,Practical
+136,Leah Duffy,18,Male,Karachi,Sindh,University of Karachi,BBA,BS,6,2.69,"Economics, Finance, Accounting, Business Communication, Management",5,Management,Theoretical
+137,Richard Evans,19,Male,Karachi,Sindh,IBA Karachi,CS,MS,7,2.6,"Java, Data Structures, C++, Git, OOP",5,C++,Practical
+138,Cristina Williams,26,Female,Karachi,Sindh,IBA Karachi,Cyber Security,BS,5,3.47,"Cyber Security, Networking, Linux",3,Linux,Practical
+139,Natasha Ramos,21,Male,Karachi,Sindh,University of Karachi,AI,BS,8,2.33,"Data Analysis, Deep Learning, Neural Networks",3,Neural Networks,Practical
+140,Glenn Clark,19,Female,Karachi,Sindh,NED University,AI,BS,3,3.51,"TensorFlow, Deep Learning, Data Analysis",3,Data Analysis,Practical
+141,Robin Young,25,Male,Karachi,Sindh,NED University,Cyber Security,MBBS,6,2.89,"Networking, Firewall, Cryptography",3,Cryptography,Practical
+142,Joshua Holder,26,Female,Karachi,Sindh,NED University,IT,MBBS,2,2.24,"Networking, Cloud Basics, Troubleshooting, Linux, System Administration",5,Troubleshooting,Practical
+143,Timothy Stanley,26,Male,Karachi,Sindh,University of Karachi,Data Science,MS,1,3.58,"Data Analysis, SQL, Machine Learning, Python",4,SQL,Practical
+144,Kristin White,23,Female,Karachi,Sindh,University of Karachi,MBBS,MS,4,3.21,"Physiology, Pharmacology, Patient Care",3,Patient Care,Theoretical
+145,Jake Henry,26,Male,Karachi,Sindh,IBA Karachi,MBBS,MBBS,3,2.33,"Patient Care, Pharmacology, Anatomy",3,Anatomy,Theoretical
+146,Aaron Jackson,21,Female,Karachi,Sindh,IBA Karachi,BBA,MBBS,1,2.95,"Accounting, Economics, Management, Business Communication, Finance",5,Finance,Theoretical
+147,Haley Brown,22,Female,Karachi,Sindh,University of Karachi,MBBS,MBBS,1,2.3,"Pharmacology, Pathology, Physiology, Patient Care, Clinical Diagnosis",5,Patient Care,Theoretical
+148,Luis Williams,23,Female,Karachi,Sindh,NED University,AI,BS,6,2.98,"Machine Learning, Deep Learning, TensorFlow, Neural Networks",4,Machine Learning,Practical
+149,Matthew Simmons,25,Male,Karachi,Sindh,University of Karachi,BBA,BS,1,2.55,"Business Communication, Accounting, Marketing",3,Accounting,Theoretical
+150,Steven Wagner,21,Male,Karachi,Sindh,NED University,Business Analyst,MBBS,8,2.95,"Power BI, Data Analysis, Business Communication",3,Data Analysis,Visual
+151,Kenneth Mann,21,Male,Karachi,Sindh,IBA Karachi,AI,MS,1,2.1,"Python, Neural Networks, Data Analysis",3,Neural Networks,Practical
+152,Tara Ponce,20,Female,Karachi,Sindh,IBA Karachi,AI,MS,7,2.7,"Data Analysis, Python, TensorFlow, Machine Learning",4,Machine Learning,Practical
+153,Tammy Cabrera,19,Female,Karachi,Sindh,IBA Karachi,CS,MS,5,3.57,"OOP, Java, C++, Data Structures, Git",5,Git,Practical
+154,Monica Davis,23,Female,Karachi,Sindh,University of Karachi,Data Science,BS,7,2.95,"Python, Data Analysis, Machine Learning",3,Python,Practical
+155,Steven Adams,26,Female,Karachi,Sindh,University of Karachi,CS,MBBS,3,2.62,"Git, C++, Data Structures",3,Data Structures,Practical
+156,Steven Schneider,23,Female,Karachi,Sindh,IBA Karachi,BBA,MBBS,5,2.9,"Business Communication, Management, Marketing",3,Business Communication,Theoretical
+157,Christopher Jackson,22,Male,Karachi,Sindh,IBA Karachi,BBA,MS,5,3.84,"Economics, Accounting, Business Communication, Marketing",4,Accounting,Theoretical
+158,Russell Miller,18,Male,Karachi,Sindh,University of Karachi,CS,BS,8,2.6,"Data Structures, Java, Git, Python, C++",5,Java,Practical
+159,Tony Cooper,20,Male,Karachi,Sindh,IBA Karachi,Business Analyst,MS,8,3.0,"Power BI, Reporting, Business Communication, Data Analysis, Excel",5,Business Communication,Visual
+160,Stacy Santos,22,Female,Karachi,Sindh,University of Karachi,IT,BS,5,3.06,"Security Basics, Troubleshooting, Cloud Basics, System Administration",4,Troubleshooting,Practical
+161,Christopher Lopez,25,Female,Karachi,Sindh,IBA Karachi,MBBS,MBBS,5,2.55,"Patient Care, Physiology, Pathology, Clinical Diagnosis",4,Clinical Diagnosis,Theoretical
+162,Brian Wright,19,Female,Karachi,Sindh,NED University,Business Analyst,MBBS,5,3.42,"Power BI, Data Analysis, Excel, SQL",4,Data Analysis,Visual
+163,Brian Hopkins,21,Male,Karachi,Sindh,University of Karachi,Cyber Security,MBBS,4,3.21,"Ethical Hacking, Cryptography, Firewall, Cyber Security, Linux",5,Ethical Hacking,Practical
+164,Mr. Charles Gonzalez,20,Male,Karachi,Sindh,IBA Karachi,Data Science,BS,7,3.24,"Machine Learning, Data Analysis, Python, Pandas",4,Pandas,Practical
+165,Linda Oconnell,19,Male,Karachi,Sindh,IBA Karachi,AI,MBBS,1,3.74,"Machine Learning, Deep Learning, Data Analysis, TensorFlow, Python",5,Deep Learning,Practical
+166,Sara Taylor,20,Female,Karachi,Sindh,University of Karachi,Business Analyst,BS,5,3.08,"Excel, Reporting, Business Communication",3,Excel,Visual
+167,Mark Jones,26,Female,Karachi,Sindh,NED University,BBA,BS,2,2.63,"Business Communication, Management, Economics, Accounting",4,Accounting,Theoretical
+168,Mary Phillips,20,Female,Karachi,Sindh,NED University,MBBS,MBBS,6,2.16,"Physiology, Anatomy, Pharmacology, Patient Care, Clinical Diagnosis",5,Physiology,Theoretical
+169,Regina Davis,18,Female,Karachi,Sindh,NED University,IT,BS,8,3.43,"System Administration, Troubleshooting, Linux",3,Troubleshooting,Practical
+170,Justin Bell,21,Male,Karachi,Sindh,IBA Karachi,MBBS,BS,8,2.58,"Patient Care, Clinical Diagnosis, Anatomy, Physiology, Pharmacology",5,Physiology,Theoretical
+171,Chelsea Brady,21,Male,Karachi,Sindh,NED University,MBBS,BS,8,3.42,"Anatomy, Pharmacology, Clinical Diagnosis, Pathology, Patient Care",5,Patient Care,Theoretical
+172,Jason Hamilton,21,Male,Karachi,Sindh,IBA Karachi,BBA,MBBS,2,3.0,"Economics, Management, Business Communication, Marketing",4,Business Communication,Theoretical
+173,Debra Conner,20,Female,Karachi,Sindh,IBA Karachi,Data Science,MS,2,3.29,"Python, Pandas, Statistics, Machine Learning, SQL",5,SQL,Practical
+174,Jacob Brown,25,Male,Karachi,Sindh,IBA Karachi,AI,MS,8,3.07,"Data Analysis, Neural Networks, Python",3,Python,Practical
+175,Charles Bryant,21,Male,Karachi,Sindh,University of Karachi,AI,MS,6,3.33,"Deep Learning, Python, Neural Networks, Machine Learning, Data Analysis",5,Data Analysis,Practical
+176,Eduardo Gonzalez,24,Male,Karachi,Sindh,University of Karachi,CS,MBBS,7,2.71,"Data Structures, Python, C++",3,Python,Practical
+177,Sylvia Bird,23,Male,Karachi,Sindh,University of Karachi,AI,MBBS,7,3.0,"Neural Networks, Python, Machine Learning, Deep Learning",4,Python,Practical
+178,Anita Sellers,26,Female,Karachi,Sindh,University of Karachi,CS,BS,8,2.66,"C++, Data Structures, OOP",3,Data Structures,Practical
+179,Amy Bishop,21,Male,Karachi,Sindh,University of Karachi,Cyber Security,BS,1,2.85,"Cyber Security, Firewall, Linux, Ethical Hacking, Cryptography",5,Cyber Security,Practical
+180,Dustin Cobb,18,Male,Karachi,Sindh,IBA Karachi,Cyber Security,MS,4,3.55,"Cyber Security, Linux, Cryptography, Firewall, Ethical Hacking",5,Ethical Hacking,Practical
+181,Andrew West,26,Male,Karachi,Sindh,NED University,BBA,MS,5,2.12,"Management, Marketing, Finance, Business Communication, Accounting",5,Accounting,Theoretical
+182,Marie Romero,24,Female,Karachi,Sindh,IBA Karachi,IT,MS,7,2.28,"Cloud Basics, System Administration, Security Basics, Networking, Linux",5,Networking,Practical
+183,Jessica Hardy,25,Male,Karachi,Sindh,IBA Karachi,IT,MS,7,3.06,"System Administration, Linux, Security Basics, Cloud Basics, Networking",5,Linux,Practical
+184,Justin Marquez,19,Female,Karachi,Sindh,NED University,Business Analyst,BS,4,2.1,"Data Analysis, Power BI, SQL",3,Power BI,Visual
+185,Kristie Nelson,25,Male,Karachi,Sindh,NED University,CS,MS,1,2.4,"Java, OOP, Git",3,Java,Practical
+186,Jeffrey Farmer,26,Female,Karachi,Sindh,NED University,Data Science,MS,8,3.01,"Data Analysis, Statistics, SQL, Pandas, Python",5,SQL,Practical
+187,Brian Munoz,19,Female,Karachi,Sindh,NED University,MBBS,BS,6,2.59,"Pharmacology, Clinical Diagnosis, Pathology, Physiology",4,Pharmacology,Theoretical
+188,James Watson,22,Male,Karachi,Sindh,University of Karachi,Cyber Security,MS,4,2.72,"Networking, Cyber Security, Ethical Hacking, Linux, Firewall",5,Cyber Security,Practical
+189,Brendan Ward,25,Male,Karachi,Sindh,IBA Karachi,AI,MS,3,2.27,"TensorFlow, Deep Learning, Data Analysis, Machine Learning, Neural Networks",5,Neural Networks,Practical
+190,Daniel Garcia,19,Male,Karachi,Sindh,University of Karachi,AI,MS,3,3.6,"Data Analysis, Python, TensorFlow",3,Data Analysis,Practical
+191,Alan Bond,23,Male,Karachi,Sindh,IBA Karachi,Data Science,MBBS,8,3.25,"Statistics, Python, Pandas, Machine Learning, Data Analysis",5,Statistics,Practical
+192,David Roberts,26,Female,Karachi,Sindh,University of Karachi,CS,MBBS,7,3.53,"OOP, Data Structures, Python, Git, Java",5,Data Structures,Practical
+193,Gina Kelly,21,Female,Karachi,Sindh,NED University,Data Science,MS,7,2.15,"SQL, Statistics, Pandas",3,Statistics,Practical
+194,Katie Williams,18,Male,Karachi,Sindh,NED University,AI,MS,7,3.05,"Machine Learning, TensorFlow, Deep Learning, Neural Networks, Python",5,Machine Learning,Practical
+195,Tracie Garcia,19,Male,Karachi,Sindh,University of Karachi,CS,BS,8,2.52,"Java, Python, Data Structures, Git, C++",5,Java,Practical
+196,Matthew Sheppard,21,Male,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,MBBS,MS,2,2.57,"Clinical Diagnosis, Anatomy, Physiology, Pathology, Patient Care",5,Patient Care,Theoretical
+197,Thomas Carr,19,Female,Islamabad,Islamabad Capital Territory,NUST,Cyber Security,BS,7,2.44,"Linux, Cryptography, Ethical Hacking, Networking, Cyber Security",5,Linux,Practical
+198,Ashley Swanson,22,Female,Islamabad,Islamabad Capital Territory,IIUI,BBA,BS,6,3.05,"Management, Economics, Business Communication, Finance, Accounting",5,Finance,Theoretical
+199,Michael Nelson,19,Female,Islamabad,Islamabad Capital Territory,NUST,Business Analyst,MBBS,2,2.16,"SQL, Business Communication, Reporting",3,SQL,Visual
+200,Richard Fields,19,Male,Islamabad,Islamabad Capital Territory,NUST,Business Analyst,MS,8,2.68,"SQL, Power BI, Reporting, Business Communication, Data Analysis",5,Reporting,Visual
+201,Sean Snow,25,Female,Islamabad,Islamabad Capital Territory,NUST,Data Science,BS,2,2.67,"Python, Statistics, Data Analysis",3,Python,Practical
+202,David Hutchinson,19,Male,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,BBA,MBBS,3,3.3,"Accounting, Marketing, Business Communication, Finance",4,Marketing,Theoretical
+203,Denise Patterson,19,Male,Islamabad,Islamabad Capital Territory,IIUI,IT,MS,7,2.57,"Troubleshooting, Cloud Basics, System Administration, Networking",4,Troubleshooting,Practical
+204,Jennifer Roberson,19,Male,Islamabad,Islamabad Capital Territory,IIUI,BBA,BS,7,2.63,"Finance, Business Communication, Economics, Management",4,Management,Theoretical
+205,Kimberly Gray,23,Male,Islamabad,Islamabad Capital Territory,IIUI,BBA,MS,3,3.83,"Marketing, Business Communication, Finance, Management",4,Finance,Theoretical
+206,Kenneth Richardson,22,Female,Islamabad,Islamabad Capital Territory,IIUI,MBBS,BS,4,3.13,"Patient Care, Pathology, Physiology, Clinical Diagnosis, Pharmacology",5,Pharmacology,Theoretical
+207,Brenda Hall,25,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,IT,BS,7,3.28,"Security Basics, Networking, System Administration, Troubleshooting, Cloud Basics",5,Networking,Practical
+208,Sandra Leonard,24,Male,Islamabad,Islamabad Capital Territory,IIUI,MBBS,MBBS,8,3.11,"Pharmacology, Physiology, Pathology",3,Pathology,Theoretical
+209,James Valencia,23,Male,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,Business Analyst,MBBS,1,3.07,"Excel, Data Analysis, SQL, Reporting, Business Communication",5,Reporting,Visual
+210,Justin Wright,21,Male,Islamabad,Islamabad Capital Territory,IIUI,BBA,MS,7,2.88,"Accounting, Economics, Management, Finance",4,Economics,Theoretical
+211,Jimmy Lopez,24,Male,Islamabad,Islamabad Capital Territory,NUST,BBA,MBBS,3,2.66,"Business Communication, Accounting, Marketing",3,Accounting,Theoretical
+212,Julie Fitzgerald,25,Male,Islamabad,Islamabad Capital Territory,IIUI,AI,MBBS,8,2.61,"Data Analysis, Neural Networks, Deep Learning",3,Neural Networks,Practical
+213,John Landry,20,Male,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,CS,BS,3,2.63,"Python, Git, C++, Data Structures, OOP",5,Data Structures,Practical
+214,Caitlyn Richardson,24,Female,Islamabad,Islamabad Capital Territory,NUST,AI,MBBS,4,2.85,"Neural Networks, Machine Learning, Data Analysis",3,Machine Learning,Practical
+215,Timothy Graves,22,Male,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,Business Analyst,BS,3,2.7,"SQL, Power BI, Business Communication",3,SQL,Visual
+216,Amanda Holden,24,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,AI,BS,6,2.67,"Deep Learning, Neural Networks, TensorFlow",3,Neural Networks,Practical
+217,Sarah Dougherty,23,Male,Islamabad,Islamabad Capital Territory,NUST,IT,MS,2,2.35,"Cloud Basics, Troubleshooting, Networking, Security Basics, System Administration",5,Troubleshooting,Practical
+218,Carla Campbell,20,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,Business Analyst,MBBS,3,3.05,"Business Communication, Power BI, Reporting, SQL",4,SQL,Visual
+219,Nicole Oliver,18,Female,Islamabad,Islamabad Capital Territory,NUST,MBBS,MS,3,2.37,"Physiology, Pharmacology, Pathology",3,Pharmacology,Theoretical
+220,John Sullivan,25,Female,Islamabad,Islamabad Capital Territory,NUST,AI,BS,1,3.51,"TensorFlow, Neural Networks, Data Analysis, Deep Learning",4,Neural Networks,Practical
+221,Robert Schultz,20,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,MBBS,MBBS,8,3.04,"Pharmacology, Physiology, Patient Care",3,Pharmacology,Theoretical
+222,Janet Hoffman,25,Male,Islamabad,Islamabad Capital Territory,IIUI,Data Science,BS,4,2.57,"SQL, Machine Learning, Python, Pandas",4,SQL,Practical
+223,Robert Powell,21,Male,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,AI,MBBS,6,3.64,"Deep Learning, Python, Neural Networks, Data Analysis",4,Data Analysis,Practical
+224,Mark Ballard,26,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,IT,MBBS,3,2.61,"Linux, Cloud Basics, Security Basics, Networking, System Administration",5,Security Basics,Practical
+225,Jodi Morris,18,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,MBBS,BS,3,2.47,"Pharmacology, Clinical Diagnosis, Anatomy, Pathology, Physiology",5,Anatomy,Theoretical
+226,Emma Santiago,24,Female,Islamabad,Islamabad Capital Territory,IIUI,Cyber Security,BS,2,2.77,"Linux, Firewall, Networking, Ethical Hacking, Cryptography",5,Networking,Practical
+227,Tyler Sanchez,19,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,BBA,MBBS,6,3.62,"Business Communication, Marketing, Accounting, Management",4,Management,Theoretical
+228,Jonathan Brown,22,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,Cyber Security,MBBS,3,3.08,"Networking, Linux, Ethical Hacking, Firewall",4,Firewall,Practical
+229,Keith Moyer,18,Male,Islamabad,Islamabad Capital Territory,NUST,BBA,MS,8,2.0,"Accounting, Economics, Management, Marketing, Finance",5,Marketing,Theoretical
+230,Aaron Baker,23,Female,Islamabad,Islamabad Capital Territory,NUST,Cyber Security,MS,3,2.1,"Networking, Ethical Hacking, Firewall, Linux, Cyber Security",5,Firewall,Practical
+231,Zachary Black,21,Female,Islamabad,Islamabad Capital Territory,NUST,Cyber Security,BS,4,2.99,"Firewall, Cyber Security, Cryptography, Linux",4,Linux,Practical
+232,John Yang,24,Male,Islamabad,Islamabad Capital Territory,IIUI,CS,BS,4,2.73,"Git, C++, Python",3,Python,Practical
+233,Gina Lowery,20,Female,Islamabad,Islamabad Capital Territory,NUST,Data Science,MBBS,3,2.13,"Machine Learning, Pandas, SQL",3,SQL,Practical
+234,James Martin,20,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,CS,MBBS,8,3.63,"Git, Java, Data Structures, OOP, Python",5,Git,Practical
+235,Robert Lewis,23,Female,Islamabad,Islamabad Capital Territory,IIUI,Data Science,BS,4,2.53,"Python, SQL, Data Analysis",3,Python,Practical
+236,Alyssa Barker,22,Male,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,Cyber Security,MBBS,4,3.42,"Cryptography, Firewall, Ethical Hacking, Linux, Cyber Security",5,Ethical Hacking,Practical
+237,Roy Zavala,21,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,CS,MBBS,2,3.0,"Data Structures, Git, Python",3,Data Structures,Practical
+238,Megan Diaz,26,Male,Islamabad,Islamabad Capital Territory,IIUI,BBA,BS,1,3.12,"Finance, Business Communication, Management, Economics",4,Finance,Theoretical
+239,Lydia Cook,26,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,MBBS,MBBS,7,2.8,"Anatomy, Patient Care, Pathology",3,Patient Care,Theoretical
+240,Joshua Butler,22,Male,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,Data Science,BS,3,3.02,"SQL, Pandas, Statistics, Data Analysis, Python",5,Data Analysis,Practical
+241,Christina Gray,21,Male,Islamabad,Islamabad Capital Territory,IIUI,Data Science,BS,8,3.16,"Pandas, Data Analysis, Statistics, Python",4,Pandas,Practical
+242,Lauren Moore,18,Male,Islamabad,Islamabad Capital Territory,IIUI,MBBS,MS,5,2.32,"Patient Care, Physiology, Anatomy, Pathology, Pharmacology",5,Physiology,Theoretical
+243,Debra Moses,26,Male,Islamabad,Islamabad Capital Territory,IIUI,MBBS,MBBS,2,2.94,"Anatomy, Patient Care, Pharmacology, Physiology, Pathology",5,Pathology,Theoretical
+244,James Mcdaniel,23,Male,Islamabad,Islamabad Capital Territory,IIUI,BBA,BS,2,2.43,"Business Communication, Management, Finance",3,Finance,Theoretical
+245,Debra Riley,25,Female,Islamabad,Islamabad Capital Territory,IIUI,CS,BS,3,3.77,"Python, Java, Git",3,Python,Practical
+246,Michelle Johnson,23,Female,Islamabad,Islamabad Capital Territory,NUST,Business Analyst,MBBS,6,2.23,"Data Analysis, Power BI, Reporting",3,Reporting,Visual
+247,Nicole Mckenzie,24,Male,Islamabad,Islamabad Capital Territory,IIUI,CS,MS,5,2.62,"Java, OOP, Python",3,Python,Practical
+248,Christopher Wall,22,Male,Islamabad,Islamabad Capital Territory,IIUI,AI,MS,8,3.9,"Deep Learning, Machine Learning, TensorFlow",3,Deep Learning,Practical
+249,Erin Deleon,21,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,Cyber Security,MBBS,1,3.81,"Cyber Security, Linux, Firewall",3,Cyber Security,Practical
+250,April Jackson,24,Female,Islamabad,Islamabad Capital Territory,NUST,Business Analyst,BS,5,2.18,"SQL, Data Analysis, Excel, Reporting, Business Communication",5,Data Analysis,Visual
+251,Alexandra Barron,26,Male,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,Business Analyst,MS,2,3.12,"Data Analysis, Reporting, Excel, SQL, Business Communication",5,Data Analysis,Visual
+252,Steven Thompson,24,Female,Islamabad,Islamabad Capital Territory,IIUI,Business Analyst,MS,5,2.44,"Power BI, SQL, Data Analysis, Business Communication, Reporting",5,SQL,Visual
+253,Terry Williams,25,Female,Islamabad,Islamabad Capital Territory,IIUI,IT,BS,6,3.83,"Networking, Linux, Cloud Basics, System Administration, Security Basics",5,Linux,Practical
+254,Amanda Clark MD,20,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,AI,MBBS,1,2.41,"Neural Networks, Deep Learning, Python, TensorFlow",4,Python,Practical
+255,Douglas Berry,24,Male,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,IT,MS,5,3.56,"Cloud Basics, Linux, Troubleshooting",3,Cloud Basics,Practical
+256,Patricia Collins,25,Male,Islamabad,Islamabad Capital Territory,NUST,CS,BS,1,2.12,"Data Structures, OOP, Java, Python",4,OOP,Practical
+257,William Walker,22,Male,Islamabad,Islamabad Capital Territory,NUST,IT,BS,4,3.71,"System Administration, Troubleshooting, Networking",3,Troubleshooting,Practical
+258,Tanya Page,25,Male,Islamabad,Islamabad Capital Territory,NUST,IT,MBBS,7,3.56,"Troubleshooting, Networking, Security Basics",3,Networking,Practical
+259,Erin King,23,Male,Islamabad,Islamabad Capital Territory,NUST,AI,MS,5,2.85,"Neural Networks, TensorFlow, Machine Learning",3,Neural Networks,Practical
+260,Logan May,25,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,CS,MS,1,2.17,"OOP, Git, Java, C++, Data Structures",5,C++,Practical
+261,Jessica Parsons MD,26,Male,Islamabad,Islamabad Capital Territory,IIUI,IT,MBBS,6,2.91,"Linux, Security Basics, Cloud Basics, Troubleshooting",4,Troubleshooting,Practical
+262,Dana Bradley DVM,18,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,BBA,BS,1,3.7,"Management, Marketing, Business Communication, Finance, Accounting",5,Business Communication,Theoretical
+263,Rebecca Ramsey,19,Male,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,CS,BS,5,3.01,"OOP, C++, Java, Python",4,OOP,Practical
+264,Amy Wallace,23,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,Cyber Security,BS,6,3.8,"Linux, Ethical Hacking, Networking, Cyber Security, Cryptography",5,Cryptography,Practical
+265,Lisa Gomez,18,Male,Islamabad,Islamabad Capital Territory,NUST,IT,BS,4,2.04,"Linux, System Administration, Troubleshooting, Networking, Cloud Basics",5,Networking,Practical
+266,Sharon Roberson,20,Female,Islamabad,Islamabad Capital Territory,NUST,CS,BS,3,3.11,"OOP, Java, Git, Data Structures",4,Java,Practical
+267,Grace Wade,19,Female,Islamabad,Islamabad Capital Territory,IIUI,Data Science,MS,3,3.85,"Machine Learning, Python, Pandas, Data Analysis, Statistics",5,Data Analysis,Practical
+268,Shirley Gamble,24,Female,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,AI,MBBS,5,2.24,"Deep Learning, Machine Learning, TensorFlow, Python, Neural Networks",5,Deep Learning,Practical
+269,Deborah Clark,19,Female,Islamabad,Islamabad Capital Territory,NUST,Business Analyst,MS,2,2.45,"Excel, Power BI, Data Analysis, Reporting, SQL",5,Data Analysis,Visual
+270,David Moreno,21,Male,Islamabad,Islamabad Capital Territory,COMSATS Islamabad,IT,BS,6,2.49,"Networking, Troubleshooting, System Administration, Cloud Basics, Linux",5,Networking,Practical
+271,Deanna Robinson,20,Female,Faisalabad,Punjab,University of Agriculture Faisalabad,CS,MS,6,3.04,"Data Structures, Git, OOP",3,Data Structures,Practical
+272,Mr. Arthur Brown Jr.,18,Female,Faisalabad,Punjab,University of Agriculture Faisalabad,AI,MS,5,3.81,"TensorFlow, Machine Learning, Data Analysis, Neural Networks, Python",5,TensorFlow,Practical
+273,Jason Gilbert,26,Male,Faisalabad,Punjab,University of Agriculture Faisalabad,BBA,MBBS,8,3.34,"Business Communication, Finance, Accounting",3,Finance,Theoretical
+274,Selena Welch,21,Male,Faisalabad,Punjab,University of Agriculture Faisalabad,IT,MBBS,5,3.26,"System Administration, Linux, Networking, Cloud Basics, Security Basics",5,Networking,Practical
+275,Jorge David,20,Male,Faisalabad,Punjab,University of Agriculture Faisalabad,Cyber Security,BS,7,2.17,"Cyber Security, Linux, Cryptography",3,Cryptography,Practical
+276,Michael Moore,20,Female,Faisalabad,Punjab,University of Agriculture Faisalabad,AI,MS,2,2.59,"Python, TensorFlow, Machine Learning",3,TensorFlow,Practical
+277,Mr. Matthew Moore,26,Female,Faisalabad,Punjab,University of Agriculture Faisalabad,AI,MS,7,2.7,"TensorFlow, Deep Learning, Python, Data Analysis",4,Data Analysis,Practical
+278,John Morgan,22,Male,Faisalabad,Punjab,University of Agriculture Faisalabad,CS,MBBS,2,2.16,"Data Structures, Git, C++, Python",4,C++,Practical
+279,Kerry Duncan,26,Female,Multan,Punjab,Bahauddin Zakariya University,Business Analyst,MS,5,2.15,"Power BI, Business Communication, Excel, SQL, Data Analysis",5,Power BI,Visual
+280,Zachary Medina MD,21,Male,Multan,Punjab,Bahauddin Zakariya University,IT,BS,7,2.15,"System Administration, Linux, Security Basics",3,Security Basics,Practical
+281,Matthew Pugh,23,Male,Multan,Punjab,Bahauddin Zakariya University,Business Analyst,MS,7,3.05,"SQL, Power BI, Data Analysis",3,Power BI,Visual
+282,Marissa Pierce,19,Female,Multan,Punjab,Bahauddin Zakariya University,AI,BS,2,3.76,"TensorFlow, Data Analysis, Neural Networks",3,Neural Networks,Practical
+283,Carol Garcia,24,Female,Multan,Punjab,Bahauddin Zakariya University,Data Science,BS,3,2.52,"SQL, Machine Learning, Data Analysis, Statistics",4,Machine Learning,Practical
+284,Christopher Wilkinson,18,Female,Multan,Punjab,Bahauddin Zakariya University,Business Analyst,MS,1,2.64,"Reporting, Data Analysis, Power BI",3,Data Analysis,Visual
+285,Jesus Lee,22,Female,Multan,Punjab,Bahauddin Zakariya University,MBBS,MS,7,3.15,"Pathology, Anatomy, Physiology, Clinical Diagnosis",4,Pathology,Theoretical
+286,Felicia Mcneil,23,Male,Multan,Punjab,Bahauddin Zakariya University,Cyber Security,BS,5,3.35,"Networking, Linux, Cryptography, Ethical Hacking",4,Ethical Hacking,Practical
+287,Ryan Sullivan,18,Male,Peshawar,KPK,University of Peshawar,IT,MS,1,3.74,"Security Basics, Networking, Linux, Cloud Basics, Troubleshooting",5,Networking,Practical
+288,Michele Haynes,19,Male,Peshawar,KPK,University of Peshawar,MBBS,MS,8,3.13,"Pathology, Clinical Diagnosis, Patient Care, Pharmacology",4,Clinical Diagnosis,Theoretical
+289,Summer Delgado,19,Female,Peshawar,KPK,University of Peshawar,AI,MS,1,2.31,"Data Analysis, Deep Learning, TensorFlow, Python, Machine Learning",5,Machine Learning,Practical
+290,Sabrina Johnson,22,Female,Peshawar,KPK,University of Peshawar,Cyber Security,MBBS,1,2.9,"Firewall, Networking, Cryptography",3,Firewall,Practical
+291,Emma Bentley,22,Female,Peshawar,KPK,University of Peshawar,IT,MS,8,2.48,"Networking, Linux, Troubleshooting, System Administration, Security Basics",5,System Administration,Practical
+292,Christopher Flynn,18,Female,Peshawar,KPK,University of Peshawar,MBBS,MS,2,2.92,"Clinical Diagnosis, Patient Care, Pathology, Pharmacology, Anatomy",5,Pathology,Theoretical
+293,Wendy Jones,21,Male,Peshawar,KPK,University of Peshawar,MBBS,BS,7,3.26,"Pharmacology, Patient Care, Clinical Diagnosis, Pathology, Physiology",5,Patient Care,Theoretical
+294,James Bradley,24,Male,Quetta,Balochistan,University of Balochistan,CS,MS,4,3.3,"Data Structures, C++, OOP, Java, Git",5,Java,Practical
+295,Lisa Mccall,25,Male,Quetta,Balochistan,University of Balochistan,BBA,MBBS,3,3.8,"Marketing, Finance, Management, Business Communication, Accounting",5,Management,Theoretical
+296,Joseph Dixon,24,Female,Quetta,Balochistan,University of Balochistan,Data Science,MS,5,2.88,"Machine Learning, Statistics, Pandas",3,Machine Learning,Practical
+297,Jasmine Dean,25,Male,Quetta,Balochistan,University of Balochistan,AI,MBBS,7,3.01,"TensorFlow, Data Analysis, Python",3,Data Analysis,Practical
+298,Martin Davis,24,Female,Quetta,Balochistan,University of Balochistan,CS,MS,3,3.48,"Java, Git, C++",3,Git,Practical
+299,Christopher Morgan,22,Male,Quetta,Balochistan,University of Balochistan,BBA,MBBS,3,2.93,"Finance, Marketing, Accounting, Business Communication, Economics",5,Finance,Theoretical
+300,Dominic Kelly,24,Male,Quetta,Balochistan,University of Balochistan,IT,MBBS,4,3.39,"System Administration, Cloud Basics, Security Basics, Linux, Troubleshooting",5,System Administration,Practical

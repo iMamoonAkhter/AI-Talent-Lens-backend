@@ -1,0 +1,101 @@
+Student Name,Field,Skills,City,Salary (PKR),Worth_It
+Esha Khan,IT,"networking, hardware, operating systems, cloud computing, system administration, security",Islamabad,192174,Yes
+Ayesha Sheikh,BBA,"management, marketing, business communication, strategic management, finance, entrepreneurship",Peshawar,79810,No
+Sana Khan,SE,"oop, dsa, testing, agile, devops, ci/cd",Quetta,161916,Yes
+Sara Khan,CS,"python, java, c++, dsa, docker, react, system design",Quetta,175179,Yes
+Anum Ahmed,BA,"communication, writing, critical thinking, research, analysis, public speaking",Islamabad,90426,No
+Sana Khan,BA,"communication, writing, critical thinking, research, analysis, public speaking",Karachi,77714,No
+Zoya Ali,Cyber Security,"networking, linux, ethical hacking, cryptography",Quetta,188379,Yes
+Hassan Khan,MBBS,"anatomy, physiology, biochemistry, clinical practice, surgery, diagnosis",Lahore,121530,No
+Ahmed Sheikh,MBBS,"anatomy, physiology, biochemistry, clinical practice, surgery, diagnosis",Quetta,103605,No
+Anum Ali,Business Analytics,"excel, sql, power bi, predictive modeling",Peshawar,140042,Yes
+Hassan Ahmed,BBA,"management, marketing, business communication, strategic management, finance, entrepreneurship",Multan,102248,No
+Omar Sheikh,Business Analytics,"excel, sql, power bi, predictive modeling",Quetta,130470,Yes
+Esha Ali,AI,"python, math, statistics, ml, deep learning, nlp, llms",Faisalabad,300888,Yes
+Ayesha Sheikh,MBBS,"anatomy, physiology, biochemistry, clinical practice, surgery, diagnosis",Karachi,141394,No
+Ali Sheikh,MBBS,"anatomy, physiology, biochemistry, clinical practice, surgery, diagnosis",Islamabad,134314,No
+Nida Khan,Business Analytics,"excel, sql, power bi, predictive modeling",Lahore,153398,Yes
+Nida Ahmed,Cyber Security,"networking, linux, ethical hacking, cryptography",Multan,176273,Yes
+Zoya Khan,CS,"python, java, c++, dsa, docker, react, system design",Multan,175880,Yes
+Kiran Malik,BA,"communication, writing, critical thinking, research, analysis, public speaking",Lahore,61708,No
+Hassan Butt,Business Analytics,"excel, sql, power bi, predictive modeling",Quetta,113978,Yes
+Rimsha Malik,IT,"networking, hardware, operating systems, cloud computing, system administration, security",Islamabad,182449,Yes
+Hamza Ahmed,Business Analytics,"excel, sql, power bi, predictive modeling",Peshawar,136049,Yes
+Omar Khan,BA,"communication, writing, critical thinking, research, analysis, public speaking",Karachi,99051,No
+Zain Ahmed,SE,"oop, dsa, testing, agile, devops, ci/cd",Multan,161238,Yes
+Usman Butt,Data Science,"python, sql, pandas, tableau, big data, deployment",Multan,175606,Yes
+Usman Khan,Business Analytics,"excel, sql, power bi, predictive modeling",Faisalabad,130556,Yes
+Hamza Khan,BBA,"management, marketing, business communication, strategic management, finance, entrepreneurship",Lahore,137660,No
+Nida Malik,AI,"python, math, statistics, ml, deep learning, nlp, llms",Islamabad,329969,Yes
+Hassan Khan,SE,"oop, dsa, testing, agile, devops, ci/cd",Karachi,198671,Yes
+Zain Khan,IT,"networking, hardware, operating systems, cloud computing, system administration, security",Lahore,176862,Yes
+Fatima Malik,BBA,"management, marketing, business communication, strategic management, finance, entrepreneurship",Lahore,126091,No
+Anum Sheikh,BA,"communication, writing, critical thinking, research, analysis, public speaking",Karachi,73000,No
+Ayesha Sheikh,Business Analytics,"excel, sql, power bi, predictive modeling",Multan,147556,Yes
+Hamza Butt,AI,"python, math, statistics, ml, deep learning, nlp, llms",Karachi,359268,Yes
+Nida Butt,Cyber Security,"networking, linux, ethical hacking, cryptography",Multan,191148,Yes
+Ayesha Ali,Cyber Security,"networking, linux, ethical hacking, cryptography",Faisalabad,212623,Yes
+Sana Butt,MBBS,"anatomy, physiology, biochemistry, clinical practice, surgery, diagnosis",Faisalabad,106406,No
+Nida Malik,BA,"communication, writing, critical thinking, research, analysis, public speaking",Lahore,82699,No
+Fatima Butt,BA,"communication, writing, critical thinking, research, analysis, public speaking",Islamabad,74710,No
+Ali Ahmed,BA,"communication, writing, critical thinking, research, analysis, public speaking",Karachi,72678,No
+Zoya Malik,BA,"communication, writing, critical thinking, research, analysis, public speaking",Lahore,85448,No
+Esha Sheikh,Business Analytics,"excel, sql, power bi, predictive modeling",Peshawar,130414,Yes
+Hassan Ali,SE,"oop, dsa, testing, agile, devops, ci/cd",Quetta,172370,Yes
+Saad Malik,CS,"python, java, c++, dsa, docker, react, system design",Peshawar,204005,Yes
+Omar Ali,CS,"python, java, c++, dsa, docker, react, system design",Quetta,199923,Yes
+Ayesha Butt,SE,"oop, dsa, testing, agile, devops, ci/cd",Faisalabad,164962,Yes
+Zain Ali,Cyber Security,"networking, linux, ethical hacking, cryptography",Peshawar,191802,Yes
+Esha Khan,BBA,"management, marketing, business communication, strategic management, finance, entrepreneurship",Karachi,130003,No
+Kiran Ali,IT,"networking, hardware, operating systems, cloud computing, system administration, security",Quetta,120675,Yes
+Usman Malik,BBA,"management, marketing, business communication, strategic management, finance, entrepreneurship",Multan,83457,No
+Hina Malik,SE,"oop, dsa, testing, agile, devops, ci/cd",Faisalabad,155590,Yes
+Esha Ali,Cyber Security,"networking, linux, ethical hacking, cryptography",Karachi,224886,Yes
+Zain Khan,CS,"python, java, c++, dsa, docker, react, system design",Multan,199666,Yes
+Zain Ali,IT,"networking, hardware, operating systems, cloud computing, system administration, security",Karachi,196732,Yes
+Anum Malik,IT,"networking, hardware, operating systems, cloud computing, system administration, security",Multan,134331,Yes
+Ali Butt,CS,"python, java, c++, dsa, docker, react, system design",Islamabad,241361,Yes
+Ahmed Malik,Data Science,"python, sql, pandas, tableau, big data, deployment",Faisalabad,190959,Yes
+Rimsha Butt,SE,"oop, dsa, testing, agile, devops, ci/cd",Islamabad,185746,Yes
+Hina Sheikh,Cyber Security,"networking, linux, ethical hacking, cryptography",Faisalabad,199760,Yes
+Hamza Ali,AI,"python, math, statistics, ml, deep learning, nlp, llms",Peshawar,251901,Yes
+Bilal Malik,BA,"communication, writing, critical thinking, research, analysis, public speaking",Quetta,51388,No
+Anum Butt,IT,"networking, hardware, operating systems, cloud computing, system administration, security",Lahore,168048,Yes
+Nida Malik,SE,"oop, dsa, testing, agile, devops, ci/cd",Multan,164527,Yes
+Anum Malik,BBA,"management, marketing, business communication, strategic management, finance, entrepreneurship",Quetta,81181,No
+Bilal Malik,Data Science,"python, sql, pandas, tableau, big data, deployment",Karachi,225906,Yes
+Hina Malik,SE,"oop, dsa, testing, agile, devops, ci/cd",Islamabad,219968,Yes
+Ayesha Butt,SE,"oop, dsa, testing, agile, devops, ci/cd",Faisalabad,176308,Yes
+Hina Khan,CS,"python, java, c++, dsa, docker, react, system design",Islamabad,256576,Yes
+Esha Malik,BBA,"management, marketing, business communication, strategic management, finance, entrepreneurship",Karachi,129510,No
+Rimsha Ahmed,BBA,"management, marketing, business communication, strategic management, finance, entrepreneurship",Peshawar,80287,No
+Rimsha Malik,BBA,"management, marketing, business communication, strategic management, finance, entrepreneurship",Multan,85308,No
+Bilal Khan,IT,"networking, hardware, operating systems, cloud computing, system administration, security",Islamabad,160586,Yes
+Fatima Butt,Business Analytics,"excel, sql, power bi, predictive modeling",Quetta,137602,Yes
+Sana Butt,Business Analytics,"excel, sql, power bi, predictive modeling",Faisalabad,133529,Yes
+Usman Ahmed,Business Analytics,"excel, sql, power bi, predictive modeling",Lahore,173793,Yes
+Rimsha Sheikh,IT,"networking, hardware, operating systems, cloud computing, system administration, security",Karachi,164533,Yes
+Sara Malik,CS,"python, java, c++, dsa, docker, react, system design",Islamabad,260137,Yes
+Bilal Ali,Cyber Security,"networking, linux, ethical hacking, cryptography",Karachi,236674,Yes
+Kiran Ahmed,IT,"networking, hardware, operating systems, cloud computing, system administration, security",Islamabad,164981,Yes
+Hina Malik,Data Science,"python, sql, pandas, tableau, big data, deployment",Peshawar,199422,Yes
+Kiran Khan,MBBS,"anatomy, physiology, biochemistry, clinical practice, surgery, diagnosis",Islamabad,122048,No
+Kiran Sheikh,BBA,"management, marketing, business communication, strategic management, finance, entrepreneurship",Quetta,83985,No
+Hamza Ahmed,CS,"python, java, c++, dsa, docker, react, system design",Islamabad,246195,Yes
+Esha Malik,CS,"python, java, c++, dsa, docker, react, system design",Multan,212801,Yes
+Esha Ahmed,SE,"oop, dsa, testing, agile, devops, ci/cd",Lahore,215746,Yes
+Zain Ahmed,BBA,"management, marketing, business communication, strategic management, finance, entrepreneurship",Quetta,93801,No
+Ahmed Khan,BA,"communication, writing, critical thinking, research, analysis, public speaking",Multan,53786,No
+Zoya Butt,Cyber Security,"networking, linux, ethical hacking, cryptography",Karachi,241315,Yes
+Ali Khan,AI,"python, math, statistics, ml, deep learning, nlp, llms",Karachi,335952,Yes
+Zain Sheikh,Cyber Security,"networking, linux, ethical hacking, cryptography",Quetta,184446,Yes
+Rimsha Khan,Data Science,"python, sql, pandas, tableau, big data, deployment",Quetta,160493,Yes
+Anum Butt,Cyber Security,"networking, linux, ethical hacking, cryptography",Peshawar,208190,Yes
+Zain Butt,BBA,"management, marketing, business communication, strategic management, finance, entrepreneurship",Peshawar,88577,No
+Ayesha Khan,Data Science,"python, sql, pandas, tableau, big data, deployment",Quetta,154798,Yes
+Usman Sheikh,BBA,"management, marketing, business communication, strategic management, finance, entrepreneurship",Faisalabad,102992,No
+Ayesha Malik,AI,"python, math, statistics, ml, deep learning, nlp, llms",Peshawar,251587,Yes
+Kiran Sheikh,MBBS,"anatomy, physiology, biochemistry, clinical practice, surgery, diagnosis",Faisalabad,106543,No
+Rimsha Butt,Business Analytics,"excel, sql, power bi, predictive modeling",Multan,119418,Yes
+Sana Khan,Data Science,"python, sql, pandas, tableau, big data, deployment",Karachi,233761,Yes
+Rimsha Butt,SE,"oop, dsa, testing, agile, devops, ci/cd",Karachi,193128,Yes
