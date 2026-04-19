@@ -7,7 +7,6 @@ os.environ['ALL_PROXY'] = ''
 os.environ['no_proxy'] = '*' 
 
 
-import httpx
 from groq import Groq
 from dotenv import load_dotenv
 
@@ -193,15 +192,9 @@ def get_client():
     if not api_key:
         return None
     
-    # If you NEED a proxy, configure it via httpx:
-    # proxy_url = os.environ.get("HTTPS_PROXY")
-    # http_client = httpx.Client(proxies=proxy_url) if proxy_url else httpx.Client()
-    
-    # If you DON'T need a proxy, just use the default client:
-    return Groq(
-        api_key=api_key,
-        # http_client=http_client # Optional: Only if you defined the client above
-    )
+    # Create Groq client without any proxy configuration
+    # Groq SDK handles HTTP automatically, no proxies needed for Vercel
+    return Groq(api_key=api_key)
 
 def build_project_chat_session(user_input, history=None):
     """
