@@ -16,12 +16,6 @@ from ml import (
     skill_gap,
     calculate_score,
 )
-from assesment import skill_audit
-from projects import build_project_recommendation, get_project_chat_response
-from project_bot import build_project_chat_session
-from roadmap import recommend_fields_and_skills
-from skill_chatbot import interview_challenge
-from powerbi import show_powerbi_insights
 
 
 class ChatMessage(BaseModel):
@@ -67,6 +61,7 @@ def chat(payload: ChatRequest):
     history_payload = [msg.model_dump() for msg in payload.history]
 
     try:
+        from project_bot import build_project_chat_session
         result = build_project_chat_session(user_input=payload.message, history=history_payload)
     except Exception as exc:
         raise HTTPException(status_code=502, detail=f"Groq API request failed: {str(exc)}") from exc
@@ -149,6 +144,7 @@ def run_skill_bot(module_name, **kwargs):
     module = (module_name or '').strip().lower()
 
     if module == 'market':
+        from assesment import skill_audit
         return skill_audit(
             field=kwargs.get('field', 'CS'),
             user_input=kwargs.get('user_input', ''),
@@ -156,30 +152,35 @@ def run_skill_bot(module_name, **kwargs):
         )
 
     if module == 'projects':
+        from projects import build_project_recommendation
         return build_project_recommendation(
             field=kwargs.get('field', 'CS'),
             level=kwargs.get('level', 'Easy'),
         )
 
     if module == 'project_chat':
+        from projects import get_project_chat_response
         return get_project_chat_response(
             user_input=kwargs.get('user_input', ''),
             history=kwargs.get('history'),
         )
 
     if module == 'roadmap':
+        from roadmap import recommend_fields_and_skills
         return recommend_fields_and_skills(
             name=kwargs.get('name', ''),
             choice=kwargs.get('choice', ''),
         )
 
     if module == 'interview':
+        from skill_chatbot import interview_challenge
         return interview_challenge(
             user_input=kwargs.get('user_input', ''),
             history=kwargs.get('history'),
         )
 
     if module == 'powerbi':
+        from powerbi import show_powerbi_insights
         return show_powerbi_insights()
 
     raise ValueError(

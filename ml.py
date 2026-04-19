@@ -1,14 +1,5 @@
 import pdfplumber
-import spacy
-from spacy.matcher import PhraseMatcher
 import re
-
-# Load NLP model
-try:
-    nlp = spacy.load("en_core_web_sm")
-except OSError:
-    # Fallback keeps phrase matching functional even if the small model isn't installed.
-    nlp = spacy.blank("en")
 
 # -------------------------------
 # 🔥 FIELD-WISE SKILLS DATASET
@@ -136,25 +127,21 @@ def extract_text(pdf_file):
     return text.lower()
 
 # -------------------------------
-# 🧠 SKILL EXTRACTION (spaCy)
+# 🧠 SKILL EXTRACTION (Regex)
 # -------------------------------
 def extract_skills(text):
-    matcher = PhraseMatcher(nlp.vocab)
-
     all_skills = []
     for field_skills in FIELDS.values():
         all_skills.extend(field_skills)
 
-    patterns = [nlp.make_doc(skill) for skill in set(all_skills)]
-    matcher.add("SKILLS", patterns)
-
-    doc = nlp(text)
-    matches = matcher(doc)
-
     found_skills = set()
-    for match_id, start, end in matches:
-        span = doc[start:end]
-        found_skills.add(span.text)
+
+    normalized_text = f" {text.lower()} "
+    for skill in set(all_skills):
+        skill_pattern = re.escape(skill.lower())
+        # Match full tokens/phrases so partial words don't trigger false positives.
+        if re.search(rf"(?<!\w){skill_pattern}(?!\w)", normalized_text):
+            found_skills.add(skill)
 
     return list(found_skills)
 
