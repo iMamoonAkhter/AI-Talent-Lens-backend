@@ -117,6 +117,7 @@ PROJECTS = {
 }
 
 
+
 def get_fields():
     return list(TOP_SKILLS.keys())
 
