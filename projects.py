@@ -4,11 +4,15 @@ from project_bot import build_project_chat_session
 # --- DATA ---
 TOP_SKILLS = {
     "CS": {"Basics": ["python", "java", "c++", "dsa"], "Advanced": ["docker", "react", "system design"]},
+    "IT": {"Basics": ["networking", "hardware", "support"], "Advanced": ["cloud infrastructure", "network security", "IT management"]},
     "AI": {"Basics": ["python", "math", "statistics", "ml"], "Advanced": ["deep learning", "nlp", "llms"]},
     "Data Science": {"Basics": ["python", "sql", "pandas"], "Advanced": ["tableau", "big data", "deployment"]},
     "Cyber Security": {"Basics": ["networking", "linux"], "Advanced": ["ethical hacking", "cryptography"]},
     "SE": {"Basics": ["oop", "dsa", "testing"], "Advanced": ["agile", "devops", "ci/cd"]},
-    "Business Analytics": {"Basics": ["excel", "sql"], "Advanced": ["power bi", "predictive modeling"]}
+    "Business Analytics": {"Basics": ["excel", "sql"], "Advanced": ["power bi", "predictive modeling"]},
+    "MBBS": {"Basics": ["anatomy", "physiology", "pathology"], "Advanced": ["surgery", "medicine", "research"]},
+    "BBA": {"Basics": ["accounting", "marketing", "management"], "Advanced": ["finance", "strategy", "entrepreneurship"]},
+    "BA": {"Basics": ["english", "history", "sociology"], "Advanced": ["research", "writing", "communication"]}
 }
 
 PROJECTS = {
@@ -112,6 +116,74 @@ PROJECTS = {
             ("Price Optimization Model", "Find the best price point to maximize profit.", "Python, Optimization algorithms"),
             ("Dynamic Supply Chain Dashboard", "Real-time tracking of logistics and costs.", "Power BI, Azure, SQL"),
             ("Sentiment-Based Strategy", "Analyze Twitter data to guide business decisions.", "NLP, Python, Power BI")
+        ]
+    },
+    "IT": {
+        "Easy": [
+            ("Network Connectivity Tester", "Verify connectivity and latency between devices.", "Python, Ping, Tracert"),
+            ("System Performance Monitor", "Create a dashboard to track CPU, RAM, and disk usage.", "Python, Matplotlib"),
+            ("Help Desk Ticketing System", "A simple system to log and manage IT support tickets.", "Python, SQLite")
+        ],
+        "Medium": [
+            ("Virtual Network Setup", "Configure a virtual network using VirtualBox.", "Linux, Networking, VirtualBox"),
+            ("Active Directory Management", "Automate user and group management in AD.", "PowerShell, Active Directory"),
+            ("Cloud Infrastructure Setup", "Deploy and manage infrastructure on AWS or Azure.", "CloudFormation, Terraform")
+        ],
+        "Hard": [
+            ("Disaster Recovery Plan", "Implement automated backup and recovery procedures.", "AWS/Azure, Python, Automation"),
+            ("Enterprise Network Security", "Design and implement a secure enterprise network.", "Firewall, VPN, Load Balancing"),
+            ("Database Replication System", "Set up multi-site database replication for high availability.", "SQL Server, PostgreSQL, Replication")
+        ]
+    },
+    "MBBS": {
+        "Easy": [
+            ("Patient Health Tracker", "Create an app to log vital signs and medications.", "Python, SQLite, Tkinter"),
+            ("Medical Quiz System", "Interactive quiz for learning anatomy and physiology.", "JavaScript, HTML, CSS"),
+            ("Disease Database", "Searchable database of diseases and symptoms.", "Python, MySQL, Flask")
+        ],
+        "Medium": [
+            ("Appointment Scheduler", "Manage doctor appointments and patient records.", "React, Node.js, MongoDB"),
+            ("ECG Analysis Tool", "Process and visualize electrocardiogram data.", "Python, Signal Processing, Matplotlib"),
+            ("Medical Imaging Viewer", "View and annotate X-ray, CT scan, MRI images.", "Python, PyDICOM, OpenCV")
+        ],
+        "Hard": [
+            ("AI Diagnostic Assistant", "Train ML models to assist in disease diagnosis.", "TensorFlow, Medical Imaging Data"),
+            ("Hospital Management System", "Complete system for patient care, billing, and staff management.", "Full-stack, PostgreSQL, React"),
+            ("Drug Interaction Database", "Analyze and predict adverse drug interactions.", "Python, Cheminformatics, ML")
+        ]
+    },
+    "BBA": {
+        "Easy": [
+            ("Sales Tracker", "Monitor daily sales and commission calculations.", "Excel, VBA"),
+            ("Expense Manager", "Track business expenses and categorize spending.", "Python, SQLite, Tkinter"),
+            ("Business Card Creator", "Generate professional business cards in bulk.", "Python, Canva API")
+        ],
+        "Medium": [
+            ("Recruitment Pipeline", "Manage job applications and hiring workflow.", "Django, MySQL, Bootstrap"),
+            ("Supply Chain Optimizer", "Optimize inventory levels to minimize costs.", "Python, Optimization algorithms"),
+            ("Financial Dashboard", "Real-time visualization of key business metrics.", "Power BI, SQL Server, Excel")
+        ],
+        "Hard": [
+            ("Enterprise Resource Planning", "Complete ERP system for business operations.", "Full-stack, PostgreSQL, React"),
+            ("Market Forecasting Engine", "Predict market trends using machine learning.", "Python, Time Series, ARIMA"),
+            ("Business Intelligence Platform", "Advanced analytics and reporting system.", "Power BI, Tableau, Data Warehouse")
+        ]
+    },
+    "BA": {
+        "Easy": [
+            ("Research Paper Organizer", "Categorize and tag academic papers.", "Python, SQLite, Flask"),
+            ("Essay Writing Assistant", "Tool to help structure and organize essay arguments.", "JavaScript, HTML, CSS"),
+            ("Historical Timeline Creator", "Create interactive timelines of historical events.", "React, D3.js")
+        ],
+        "Medium": [
+            ("Library Management System", "Manage books, borrowing, and user accounts.", "Django, PostgreSQL, Bootstrap"),
+            ("Survey & Analysis Tool", "Create surveys and analyze qualitative data.", "Python, Pandas, Matplotlib"),
+            ("Content Management System", "Build a CMS for publishing articles and essays.", "Node.js, MongoDB, React")
+        ],
+        "Hard": [
+            ("Digital Archive Platform", "Digitize and catalog historical documents.", "Full-stack, Elasticsearch, React"),
+            ("NLP Text Analysis Engine", "Analyze sentiment and themes in large text corpora.", "Python, NLP, Machine Learning"),
+            ("Social Behavior Analytics", "Study social patterns and trends using data visualization.", "Python, Pandas, D3.js")
         ]
     }
 }
