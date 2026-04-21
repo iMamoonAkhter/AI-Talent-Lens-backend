@@ -61,8 +61,8 @@ def chat(payload: ChatRequest):
     history_payload = [msg.model_dump() for msg in payload.history]
 
     try:
-        from project_bot import build_project_chat_session
-        result = build_project_chat_session(user_input=payload.message, history=history_payload)
+        from skill_chatbot import interview_challenge
+        result = interview_challenge(user_input=payload.message, history=history_payload)
     except Exception as exc:
         raise HTTPException(status_code=502, detail=f"Groq API request failed: {str(exc)}") from exc
 
